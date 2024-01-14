@@ -2,14 +2,11 @@
 
 ## Installation et utilisation du projet
 
-- Naviguez jusqu'au répertoire CLionProjects: ```cd ~/CLionProjects```
-- Faites la commande: ```git clone https://github.com/IFT2008-Googletest_Exemple```
-- Double-cliquez sur l'exécutable jetbrains-toolbox
-- Choisissez CLion
-- Choisissez Nouveau Projet
-- Donnez au projet exactement le nom du dépôt cloné: IFT2008-Googletest_Exemple
-- CLion vous avertira que ce répertoire n'est pas vide, et demandera s'il doit créer un projet 
-à-partir de sources existantes.  Répondez OUI.
+- Lancez CLion, en double-cliquant sur le lien vers clion.sh, par-exemple, ou en faisant un ctrl-clic ou un clic-droit sur l'icône de clion.sh 
+- Lorsque le sélecteur de projets apparaît, cliquez sur le bouton Get from VCS
+- Dans le champ URL, saisissez l'adresse suivante: ```https://github.com/IFT2008-TD/demo-googletest```
+- Choisissez Trust Project
+- Par défaut, le projet sera cloné dans un répertoire ayant le nom demo-googletest.  Vous pouvez le modifier.
 - Le projet est prêt à être construit et exécuté.  Pour choisir d'exécuter les tests ou le programme 
 principal, choisissez dans le menu déroulant à-côté du petit marteau vert: All CTest pour les tests
 et monprojet pour le programme principal.
