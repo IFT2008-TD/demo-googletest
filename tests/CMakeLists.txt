@@ -10,7 +10,7 @@ add_executable(
 target_include_directories(test_tugabudoire PRIVATE ${PROJECT_SOURCE_DIR} )
 
 target_link_libraries(
-       test_tugabudoire
+        test_tugabudoire
         gtest_main
         gtest
         pthread

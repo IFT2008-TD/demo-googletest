@@ -1,2 +1,16 @@
+# Répertoires à ignorer pour CLion
+
 /cmake-build-debug
 .idea/
+
+# Répertoire à ignorer pour VSCode
+
+.vscode
+
+# Répertoires à ignorer pour Netbeans
+
+build/
+dist/
+nbproject/
+
+Makefile
