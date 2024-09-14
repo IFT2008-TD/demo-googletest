@@ -13,4 +13,6 @@ build/
 dist/
 nbproject/
 
+# Dans Netbeans on ignore aussi ce Makefile s'il est présent
+
 Makefile
